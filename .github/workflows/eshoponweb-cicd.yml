@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-sahan
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: 2de62f67-7c5b-44b7-b165-afbd98f6b3d0
   WEBAPP-NAME: eshoponweb-webapp-sahan
 
 
